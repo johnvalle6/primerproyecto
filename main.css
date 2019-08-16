@@ -1,0 +1,14 @@
+body{
+    background-color: brown;
+    color: aliceblue;
+    text-align: center;
+}
+.padre {
+    background-color: #fafafa;
+    margin: 1rem;
+    padding: 5rem;
+    border: 2px solid rgb(241, 164, 164);
+    /* IMPORTANTE */
+    text-align: center;
+  }
+ 
